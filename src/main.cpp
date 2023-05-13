@@ -16,6 +16,7 @@
 //*********************************************************************************************************/
 
 #define LGFX_USE_V1
+#include "Arduino.h"
 #include <LovyanGFX.hpp>
 
 // SETUP LGFX PARAMETERS FOR WT32-SC01-PLUS
